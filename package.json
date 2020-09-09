@@ -1,0 +1,22 @@
+{
+  "name": "RaptorSA-master",
+  "version": "1.0.0",
+  "description": "![Issues](https://img.shields.io/github/issues/cramenorn/raptorsa.svg) ![Stars](https://img.shields.io/github/stars/cramenorn/raptorsa.svg) ![Forks](https://img.shields.io/github/forks/cramenorn/raptorsa.svg) [![Build Status](https://dev.azure.com/davidedlc97/RaptorSA/_apis/build/status/Cramenorn.RaptorSA?branchName=master)](https://dev.azure.com/davidedlc97/RaptorSA/_build/latest?definitionId=1&branchName=master)",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines"{
+    "node": "12.18.3",
+    "npm": "*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
